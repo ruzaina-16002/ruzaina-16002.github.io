@@ -23,7 +23,7 @@ An earlier project applying ANSYS structural analysis and topology optimisation 
 [Link to repo — add once available]
 
 ## About Me
-- Mechanical Engineering MEng student, Queen Mary University of London
+- Mechanical Engineering BEng student, Queen Mary University of London
 - Interests: aerospace and automotive engineering
 - Skills: SolidWorks, ANSYS FEA, Python, CAD
 
