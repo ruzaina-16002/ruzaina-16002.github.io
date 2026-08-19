@@ -10,12 +10,12 @@ I'm interested in aerospace and automotive engineering, and this is a running po
 ### 🌀 NACA Aerofoil Simulation (Python)
 A self-directed project building a vortex panel method simulation of NACA aerofoil profiles from first principles — potential flow theory, panel method coding, and validation against known aerofoil data.
 *Status: in progress*
-[Link to repo — https://github.com/ruzaina-16002/aerofoil-simulation]
+[Link to repo](https://github.com/ruzaina-16002/aerofoil-simulation)
 
 ### 🚗 Double-Wishbone Suspension Assembly (SolidWorks)
 An intermediate CAD assembly project designing a double-wishbone suspension system — control arms, upright, coilover — with a focus on proper mating and motion study of wheel travel.
 *Status: in progress*
-[Link to repo — https://github.com/ruzaina-16002/double-wishbone-suspension]
+[Link to repo](https://github.com/ruzaina-16002/double-wishbone-suspension) 
 
 ### 🔧 Suspension Bellcrank — FEA & Topology Optimisation (ANSYS)
 An earlier project applying ANSYS structural analysis and topology optimisation to a suspension bellcrank. Left incomplete due to difficulty with the ANSYS workflow — documenting here as a case study, with plans to revisit and redo it properly.
