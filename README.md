@@ -1,7 +1,6 @@
 # ruzaina-16002.github.io
-# Hi, I'm Ruzaina
 
-Mechanical Engineering (MEng) student at Queen Mary University of London, currently in my second year.
+I am a Mechanical Engineering (MEng) student at Queen Mary University of London, currently in my second year.
 
 I'm interested in aerospace and automotive engineering, and this is a running portfolio of projects I'm building to develop my skills — CAD, simulation, and programming.
 
