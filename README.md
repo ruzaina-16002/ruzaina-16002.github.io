@@ -17,10 +17,6 @@ An intermediate CAD assembly project designing a double-wishbone suspension syst
 *Status: in progress*
 [Link to repo](https://github.com/ruzaina-16002/double-wishbone-suspension) 
 
-### 🔧 Suspension Bellcrank — FEA & Topology Optimisation (ANSYS)
-An earlier project applying ANSYS structural analysis and topology optimisation to a suspension bellcrank. Left incomplete due to difficulty with the ANSYS workflow — documenting here as a case study, with plans to revisit and redo it properly.
-*Status: incomplete, planned rework*
-[Link to repo — add once available]
 
 ## About Me
 - Mechanical Engineering BEng student, Queen Mary University of London
